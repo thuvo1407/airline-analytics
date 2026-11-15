@@ -77,7 +77,6 @@ Documentation
 
 - documentation/glossary.md: definitions used in this project
 - documentation/data_quality_finds: the audit findings
-- documentation/results/: screenshots of key results
 
 Limitations
 - The data is synthetic and the errors are simple, so 100% matching accuracy is not realistic. 
