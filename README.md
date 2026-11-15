@@ -79,6 +79,10 @@ Documentation
 - documentation/data_quality_finds: the audit findings
 - documentation/results/: screenshots of key results
 
-
+Limitations
+- The data is synthetic and the errors are simple, so 100% matching accuracy is not realistic. 
+- The booking data is a sample of tickets, so customer "frequency" is understated.
+- Retention is roughly flat because the generator does not model customers drifting away.
+- Customer segments do not differ much in behaviour, because the generator did not make them differ.
 
 
